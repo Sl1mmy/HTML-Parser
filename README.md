@@ -13,6 +13,7 @@ This project is a PySide6 application that allows users to drag and drop multipl
 - Python 3.x
 - PySide6
 - beautifulsoup4
+- openpyxl
 
 ## Setup Instructions
 
